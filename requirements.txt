@@ -1,0 +1,2 @@
+django-configurations
+dj-database-url
