@@ -1,2 +1,3 @@
 django-configurations
 dj-database-url
+Django[argon2]
