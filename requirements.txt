@@ -1,5 +1,6 @@
 django-configurations
 dj-database-url
 Django[argon2]
+django-debug-toolbar
 #sudo apt install memcached
 pymemcache
