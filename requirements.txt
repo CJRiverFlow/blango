@@ -5,3 +5,4 @@ django-debug-toolbar
 #sudo apt install memcached
 pymemcache
 django-registration
+django-allauth
