@@ -4,3 +4,4 @@ Django[argon2]
 django-debug-toolbar
 #sudo apt install memcached
 pymemcache
+django-registration
